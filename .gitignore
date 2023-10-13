@@ -1,0 +1,7 @@
+# Ignore everything
+*
+# But descend into directories
+!requirements.txt
+!whisper.ipynb
+!README.md
+!.gitignore 
