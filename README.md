@@ -5,11 +5,11 @@ This is a simple python program that uses FFMPEG to turn video into audio, audio
 # Usage
 clone the repo (or download zip)
 
-Make a virtual environment and install the requirements.txt file into it (developed in python 3.9.16 should work in newer versions) also sorry that the requirements.txt file is long, i should not have done this in a conda environment
+Make a virtual environment and install the requirements.txt file into it (developed in python 3.9.16 should work in newer versions) also sorry that the requirements.txt file is long, I should not have done this in a conda environment
 
 Make sure you have ffmpeg installed
 
-Make a folder in the directory
+Make a folder in the unzipped folder
 
 make an environment variable and call it OPENAIKEY and set it to your openAI api key or just replace os.getenv("OPENAIKEY") from openai.api_key = os.getenv("OPENAIKEY") to your key with " on each side
 
